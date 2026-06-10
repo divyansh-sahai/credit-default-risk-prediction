@@ -1,0 +1,5 @@
+Risk_Bucket,Default_Rate,Decision
+Low Risk,1.8860561914672218,Approve
+Medium Risk,3.9737252861602497,Approve with Conditions
+High Risk,7.596747967479675,Manual Review
+Very High Risk,18.834547346514046,Reject
