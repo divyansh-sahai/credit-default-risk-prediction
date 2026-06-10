@@ -1,4 +1,4 @@
-# Credit Default Risk Prediction & Customer Risk Segmentation
+ # Credit Default Risk Prediction & Customer Risk Segmentation
 
 ## Project Overview:
 
@@ -107,11 +107,11 @@ Three machine learning models were developed and compared:
 
 ## Model Performance
 
-|             Model	           |  Accuracy	|  Precision  |  Recall	 |  ROC-AUC  |
+|             Model	               |  Accuracy	|  Precision  |  Recall	 |  ROC-AUC  |
 |----------------------------------|------------|-------------|----------|-----------|
-|  Logistic Regression (Balanced)  |	0.69	|     0.16    |	  0.68   |    0.75   |
-|          Random Forest	   |    0.72	|     0.16    |	  0.60	 |    0.73   |
-|            XGBoost	           |    0.72	|     0.17    |	  0.65	 |    0.76   |
+|  Logistic Regression (Balanced)  |	  0.69	  |     0.16    |	  0.68   |    0.75   |
+|          Random Forest	         |    0.72	  |     0.16    |	  0.60	 |    0.73   |
+|            XGBoost	             |    0.72	  |     0.17    |	  0.65	 |    0.76   |
 
 
 ### Best Performing Model: 
@@ -164,10 +164,10 @@ Customers were segmented into four risk buckets:
 
 |  Risk Segment	 |  Default Rate   |          Decision         |
 |----------------|-----------------|---------------------------|
-|   Low Risk	 |     1.89%	   |          Approve          |
-|  Medium Risk	 |     3.97%	   |   Approve with Conditions |
-|   High Risk	 |     7.60%	   |       Manual Review       |
-| Very High Risk |    18.83%	   |          Reject           |
+|    Low Risk	   |      1.89%	     |          Approve          |
+|   Medium Risk	 |      3.97%	     |   Approve with Conditions |
+|    High Risk	 |      7.60%	     |       Manual Review       |
+| Very High Risk |     18.83%	     |          Reject           |
 
 
 ## Underwriting Framework
@@ -245,19 +245,19 @@ The project includes a four-page interactive dashboard:
 
 ### Executive Summary
 
-![Executive Summary](images/dashboard_1_executive_summary.png)
+![Executive Summary](images/dashboard 1 executive summary.png)
 
 ### Portfolio Risk Analysis
 
-![Portfolio Risk Analysis](images/dashboard_2_portfolio_risk_analysis.png)
+![Portfolio Risk Analysis](images/dashboard 2 portfolio risk analysis.png)
 
 ### Model Performance
 
-![Model Performance](images/dashboard_3_model_performance.png)
+![Model Performance](images/dashboard 3 model performance.png)
 
 ### Risk Segmentation & Underwriting
 
-![Risk Segmentation & Underwriting](images/dashboard_4_risk_segmentation.png)
+![Risk Segmentation & Underwriting](images/dashboard 4 risk segmentation.png)
 
 
 ## Technologies Used
