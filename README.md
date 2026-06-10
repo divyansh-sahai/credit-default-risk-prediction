@@ -242,19 +242,19 @@ The project includes a four-page interactive dashboard:
 
 ### Executive Summary
 
-[Executive Summary](images/dashboard_1_executive_summary.png)
+![Executive Summary](images/dashboard_1_executive_summary.png)
 
 ### Portfolio Risk Analysis
 
-[Portfolio Risk Analysis](images/dashboard_2_portfolio_risk_analysis.png)
+![Portfolio Risk Analysis](images/dashboard_2_portfolio_risk_analysis.png)
 
 ### Model Performance
 
-[Model Performance](images/dashboard_3_model_performance.png)
+![Model Performance](images/dashboard_3_model_performance.png)
 
 ### Risk Segmentation & Underwriting
 
-[Risk Segmentation & Underwriting](images/dashboard_4_risk_segmentation.png)
+![Risk Segmentation & Underwriting](images/dashboard_4_risk_segmentation.png)
 
 
 ## Technologies Used
