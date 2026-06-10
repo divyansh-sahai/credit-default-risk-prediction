@@ -108,9 +108,9 @@ Three machine learning models were developed and compared:
 ## Model Performance
 
 Model	                            Accuracy	  Precision    Recall	   ROC-AUC
-Logistic Regression (Balanced)	      0.69	    0.16	0.68	    0.75
-Random Forest	                      0.72	    0.16	0.60	    0.73
-XGBoost	                              0.72	    0.17	0.65	    0.76
+Logistic Regression (Balanced)	     0.69	      0.16	       0.68	     0.75
+Random Forest	                      0.72	      0.16	       0.60	     0.73
+XGBoost	                            0.72	      0.17	       0.65	     0.76
 
 
 ### Best Performing Model: 
@@ -133,8 +133,8 @@ XGBoost provided the strongest balance between identifying risky customers and m
 
 Younger customers demonstrated significantly higher default rates.
 
-Age Group	Default Rate
- 20-30	          11.46%
+Age Group	    Default Rate
+ 20-30	         11.46%
  30-40	          9.58%
  40-50	          7.65%
  50-60	          6.13%
@@ -160,11 +160,11 @@ Highest-risk occupations included:
 
 Customers were segmented into four risk buckets:
 
-Risk Segment	  Default Rate	          Decision
- Low Risk	     1.89%	          Approve
- Medium Risk	     3.97%	   Approve with Conditions
- High Risk	     7.60%	        Manual Review
-Very High Risk	    18.83%	           Reject
+Risk Segment	     Default Rate	         Decision
+  Low Risk	         1.89%	               Approve
+ Medium Risk	       3.97%	         Approve with Conditions
+  High Risk	        7.60%	             Manual Review
+Very High Risk	    18.83%	               Reject
 
 
 ## Underwriting Framework
@@ -242,19 +242,19 @@ The project includes a four-page interactive dashboard:
 
 ### Executive Summary
 
-![Executive Summary](images/dashboard_1_executive_summary.png)
+[Executive Summary](images/dashboard_1_executive_summary.png)
 
 ### Portfolio Risk Analysis
 
-![Portfolio Risk Analysis](images/dashboard_2_portfolio_risk_analysis.png)
+[Portfolio Risk Analysis](images/dashboard_2_portfolio_risk_analysis.png)
 
 ### Model Performance
 
-![Model Performance](images/dashboard_3_model_performance.png)
+[Model Performance](images/dashboard_3_model_performance.png)
 
 ### Risk Segmentation & Underwriting
 
-![Risk Segmentation & Underwriting](images/dashboard_4_risk_segmentation.png)
+[Risk Segmentation & Underwriting](images/dashboard_4_risk_segmentation.png)
 
 
 ## Technologies Used
